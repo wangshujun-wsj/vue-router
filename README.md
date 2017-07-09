@@ -1,5 +1,7 @@
 # vuex-demo
 
+# [预览](https://wangshujun-wsj.github.io/vue-router/)
+
 > A Vue.js project
 
 ## Build Setup
